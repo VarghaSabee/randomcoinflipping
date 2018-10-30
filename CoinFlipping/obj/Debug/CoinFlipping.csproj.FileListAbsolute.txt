@@ -1,0 +1,7 @@
+c:\users\89502\source\repos\CoinFlipping\CoinFlipping\bin\Debug\CoinFlipping.exe.config
+c:\users\89502\source\repos\CoinFlipping\CoinFlipping\bin\Debug\CoinFlipping.exe
+c:\users\89502\source\repos\CoinFlipping\CoinFlipping\bin\Debug\CoinFlipping.pdb
+c:\users\89502\source\repos\CoinFlipping\CoinFlipping\obj\Debug\CoinFlipping.csprojAssemblyReference.cache
+c:\users\89502\source\repos\CoinFlipping\CoinFlipping\obj\Debug\CoinFlipping.csproj.CoreCompileInputs.cache
+c:\users\89502\source\repos\CoinFlipping\CoinFlipping\obj\Debug\CoinFlipping.exe
+c:\users\89502\source\repos\CoinFlipping\CoinFlipping\obj\Debug\CoinFlipping.pdb
